@@ -1,0 +1,139 @@
+route_name,pickup_point,dropoff_point,date,slot1,slot2,slot3,slot4,slot5,slot6
+Hai Ba Trung,Le Dai Hanh,Times City ,,07:40,09:40,10:40,12:00,13:30,
+Hai Ba Trung,Le Dai Hanh,Aeon Mall Long Bien,,07:40,09:40,10:40,12:00,13:30,
+Hai Ba Trung,Le Dai Hanh,Rung Co – E2 Building,,07:40,09:40,10:40,12:00,13:30,
+Hai Ba Trung,Le Dai Hanh,Buv Campus,,07:40,09:40,10:40,12:00,13:30,
+Hai Ba Trung,Times City ,Aeon Mall Long Bien,,07:55,09:55,10:55,12:15,13:45,
+Hai Ba Trung,Times City ,Rung Co – E2 Building,,07:55,09:55,10:55,12:15,13:45,
+Hai Ba Trung,Times City ,Buv Campus,,07:55,09:55,10:55,12:15,13:45,
+Hai Ba Trung,Aeon Mall Long Bien,Rung Co – E2 Building,,08:05,10:05,11:05,12:25,13:55,
+Hai Ba Trung,Aeon Mall Long Bien,Buv Campus,,08:05,10:05,11:05,12:25,13:55,
+Hai Ba Trung,Rung Co – E2 Building,Buv Campus,,08:20,10:20,11:20,12:35,14:10,
+Hai Ba Trung,Buv Campus,Rung Co – E2 Building,,11:30,12:30,13:30,15:15,17:35,18:15
+Hai Ba Trung,Buv Campus,Aeon Mall Long Bien,,11:30,12:30,13:30,15:15,17:35,18:15
+Hai Ba Trung,Buv Campus,Times City,,11:30,12:30,13:30,15:15,17:35,18:15
+Hai Ba Trung,Buv Campus,Le Dai Hanh,,11:30,12:30,13:30,15:15,17:35,18:15
+Hai Ba Trung,Rung Co – E2 Building,Aeon Mall Long Bien,,11:45,12:45,13:45,15:30,17:50,18:30
+Hai Ba Trung,Rung Co – E2 Building,Times City,,11:45,12:45,13:45,15:30,17:50,18:30
+Hai Ba Trung,Rung Co – E2 Building,Le Dai Hanh,,11:45,12:45,13:45,15:30,17:50,18:30
+Hai Ba Trung,Aeon Mall Long Bien,Times City,,12:00,13:00,14:00,15:45,18:05,18:45
+Hai Ba Trung,Aeon Mall Long Bien,Le Dai Hanh,,12:00,13:00,14:00,15:45,18:05,18:45
+Hai Ba Trung,Times City,Le Dai Hanh,,12:10,13:10,14:10,15:55,18:15,18:55
+Cau Giay,Nguyen Quoc Tri,National Cinema Centre,,07:20,09:35,10:25,11:40,13:30,
+Cau Giay,Nguyen Quoc Tri,Buv Campus,,07:20,09:35,10:25,11:40,13:30,
+Cau Giay,National Cinema Centre,Buv Campus,,07:35,09:50,10:40,11:55,13:45,
+Cau Giay,Buv Campus,National Cinema Centre,,11:30,12:30,13:30,15:15,17:35,18:15
+Cau Giay,Buv Campus,Nguyen Quoc Tri,,11:30,12:30,13:30,15:15,17:35,18:15
+Cau Giay,National Cinema Centre,Nguyen Quoc Tri,,12:20,13:20,14:20,16:05,18:25,19:05
+Tay Ho,Ho Tay Water Park,Au Co,,07:40,09:40,10:40,11:40,13:30,
+Tay Ho,Ho Tay Water Park,Tran Khanh Du,,07:40,09:40,10:40,11:40,13:30,
+Tay Ho,Ho Tay Water Park,Vinhomes Ocean Park,,07:40,09:40,10:40,11:40,13:30,
+Tay Ho,Ho Tay Water Park,Buv Campus,,07:40,09:40,10:40,11:40,13:30,
+Tay Ho,Au Co,Tran Khanh Du,,07:50,09:50,10:50,11:50,13:40,
+Tay Ho,Au Co,Vinhomes Ocean Park,,07:50,09:50,10:50,11:50,13:40,
+Tay Ho,Au Co,Buv Campus,,07:50,09:50,10:50,11:50,13:40,
+Tay Ho,Tran Khanh Du,Vinhomes Ocean Park,,08:05,10:05,11:05,12:05,13:55,
+Tay Ho,Tran Khanh Du,Buv Campus,,08:05,10:05,11:05,12:05,13:55,
+Tay Ho,Vinhomes Ocean Park,Buv Campus,,08:30,10:30,11:30,12:30,14:20,
+Tay Ho,Buv Campus,Vinhomes Ocean Park ,,11:30,12:30,13:30,15:15,17:35,18:15
+Tay Ho,Buv Campus,Hong Ha,,11:30,12:30,13:30,15:15,17:35,18:15
+Tay Ho,Buv Campus,Au Co,,11:30,12:30,13:30,15:15,17:35,18:15
+Tay Ho,Buv Campus,Ho Tay Water Park,,11:30,12:30,13:30,15:15,17:35,18:15
+Tay Ho,Vinhomes Ocean Park ,Hong Ha,,11:40,12:40,13:40,15:25,17:45,18:25
+Tay Ho,Vinhomes Ocean Park ,Au Co,,11:40,12:40,13:40,15:25,17:45,18:25
+Tay Ho,Vinhomes Ocean Park ,Ho Tay Water Park,,11:40,12:40,13:40,15:25,17:45,18:25
+Tay Ho,Hong Ha,Au Co,,12:05,13:05,14:05,15:50,18:10,18:50
+Tay Ho,Hong Ha,Ho Tay Water Park,,12:05,13:05,14:05,15:50,18:10,18:50
+Tay Ho,Au Co,Ho Tay Water Park,,12:20,13:20,14:20,16:05,18:25,19:05
+Ha Dong,Ho Guom Plaza,473 Nguyen Trai,,07:30,09:30,10:30,11:30,13:30,
+Ha Dong,Ho Guom Plaza,Muong Thanh Grand Hotel,,07:30,09:30,10:30,11:30,13:30,
+Ha Dong,Ho Guom Plaza,Linh Nam,,07:30,09:30,10:30,11:30,13:30,
+Ha Dong,Ho Guom Plaza,Buv Campus,,07:30,09:30,10:30,11:30,13:30,
+Ha Dong,473 Nguyen Trai,Muong Thanh Grand Hotel,,07:40,09:40,10:40,11:40,13:40,
+Ha Dong,473 Nguyen Trai,Linh Nam,,07:40,09:40,10:40,11:40,13:40,
+Ha Dong,473 Nguyen Trai,Buv Campus,,07:40,09:40,10:40,11:40,13:40,
+Ha Dong,Muong Thanh Grand Hotel,Linh Nam,,07:50,09:50,10:50,11:50,13:50,
+Ha Dong,Muong Thanh Grand Hotel,Buv Campus,,07:50,09:50,10:50,11:50,13:50,
+Ha Dong,Linh Nam,Buv Campus,,08:00,10:00,11:00,12:00,14:00,
+Ha Dong,Buv Campus,634 Linh Nam ,,11:30,12:30,13:30,15:15,17:35,18:15
+Ha Dong,Buv Campus,Muong Thanh Grand Hotel,,11:30,12:30,13:30,15:15,17:35,18:15
+Ha Dong,Buv Campus,Old Thanh Xuan Department Store,,11:30,12:30,13:30,15:15,17:35,18:15
+Ha Dong,Buv Campus,Ho Guom Plaza,,11:30,12:30,13:30,15:15,17:35,18:15
+Ha Dong,634 Linh Nam ,Muong Thanh Grand Hotel,,11:50,12:50,13:50,15:35,17:55,18:35
+Ha Dong,634 Linh Nam ,Old Thanh Xuan Department Store,,11:50,12:50,13:50,15:35,17:55,18:35
+Ha Dong,634 Linh Nam ,Ho Guom Plaza,,11:50,12:50,13:50,15:35,17:55,18:35
+Ha Dong,Muong Thanh Grand Hotel,Old Thanh Xuan Department Store,,12:00,13:00,14:00,15:45,18:05,18:45
+Ha Dong,Muong Thanh Grand Hotel,Ho Guom Plaza,,12:00,13:00,14:00,15:45,18:05,18:45
+Ha Dong,Old Thanh Xuan Department Store,Ho Guom Plaza,,12:10,13:10,14:10,15:55,18:15,18:55
+Ecopark,Sky Oasis,Sol Forest & Haven Park,,08:28,10:28,11:28,12:43,14:18,
+Ecopark,Sky Oasis,Landmark,,08:28,10:28,11:28,12:43,14:18,
+Ecopark,Sky Oasis,Swanlake,,08:28,10:28,11:28,12:43,14:18,
+Ecopark,Sky Oasis,Westbay –  B Building,,08:28,10:28,11:28,12:43,14:18,
+Ecopark,Sky Oasis,Westbay – C Building,,08:28,10:28,11:28,12:43,14:18,
+Ecopark,Sky Oasis,Aquabay – Sky 2 Building,,08:28,10:28,11:28,12:43,14:18,
+Ecopark,Sky Oasis,Aquabay – Park 1 Building,,08:28,10:28,11:28,12:43,14:18,
+Ecopark,Sky Oasis,Buv Campus,,08:28,10:28,11:28,12:43,14:18,
+Ecopark,Sol Forest & Haven Park,Landmark,,08:28,10:28,11:28,12:43,14:18,
+Ecopark,Sol Forest & Haven Park,Swanlake,,08:28,10:28,11:28,12:43,14:18,
+Ecopark,Sol Forest & Haven Park,Westbay –  B Building,,08:28,10:28,11:28,12:43,14:18,
+Ecopark,Sol Forest & Haven Park,Westbay – C Building,,08:28,10:28,11:28,12:43,14:18,
+Ecopark,Sol Forest & Haven Park,Aquabay – Sky 2 Building,,08:28,10:28,11:28,12:43,14:18,
+Ecopark,Sol Forest & Haven Park,Aquabay – Park 1 Building,,08:28,10:28,11:28,12:43,14:18,
+Ecopark,Sol Forest & Haven Park,Buv Campus,,08:28,10:28,11:28,12:43,14:18,
+Ecopark,Landmark,Swanlake,,08:30,10:30,11:30,12:45,14:20,
+Ecopark,Landmark,Westbay –  B Building,,08:30,10:30,11:30,12:45,14:20,
+Ecopark,Landmark,Westbay – C Building,,08:30,10:30,11:30,12:45,14:20,
+Ecopark,Landmark,Aquabay – Sky 2 Building,,08:30,10:30,11:30,12:45,14:20,
+Ecopark,Landmark,Aquabay – Park 1 Building,,08:30,10:30,11:30,12:45,14:20,
+Ecopark,Landmark,Buv Campus,,08:30,10:30,11:30,12:45,14:20,
+Ecopark,Swanlake,Westbay –  B Building,,08:30,10:30,11:30,12:45,14:20,
+Ecopark,Swanlake,Westbay – C Building,,08:30,10:30,11:30,12:45,14:20,
+Ecopark,Swanlake,Aquabay – Sky 2 Building,,08:30,10:30,11:30,12:45,14:20,
+Ecopark,Swanlake,Aquabay – Park 1 Building,,08:30,10:30,11:30,12:45,14:20,
+Ecopark,Swanlake,Buv Campus,,08:30,10:30,11:30,12:45,14:20,
+Ecopark,Westbay –  B Building,Westbay – C Building,,08:31,10:31,11:31,12:46,14:21,
+Ecopark,Westbay –  B Building,Aquabay – Sky 2 Building,,08:31,10:31,11:31,12:46,14:21,
+Ecopark,Westbay –  B Building,Aquabay – Park 1 Building,,08:31,10:31,11:31,12:46,14:21,
+Ecopark,Westbay –  B Building,Buv Campus,,08:31,10:31,11:31,12:46,14:21,
+Ecopark,Westbay – C Building,Aquabay – Sky 2 Building,,08:31,10:31,11:31,12:46,14:21,
+Ecopark,Westbay – C Building,Aquabay – Park 1 Building,,08:31,10:31,11:31,12:46,14:21,
+Ecopark,Westbay – C Building,Buv Campus,,08:31,10:31,11:31,12:46,14:21,
+Ecopark,Aquabay – Sky 2 Building,Aquabay – Park 1 Building,,08:34,10:34,11:34,12:49,14:24,
+Ecopark,Aquabay – Sky 2 Building,Buv Campus,,08:34,10:34,11:34,12:49,14:24,
+Ecopark,Aquabay – Park 1 Building,Buv Campus,,08:34,10:34,11:34,12:49,14:24,
+Ecopark,Buv Campus,Sky Oasis,,11:30,12:30,13:30,15:15,17:35,18:15
+Ecopark,Buv Campus,Sol Forest & Haven Park,,11:30,12:30,13:30,15:15,17:35,18:15
+Ecopark,Buv Campus,Landmark,,11:30,12:30,13:30,15:15,17:35,18:15
+Ecopark,Buv Campus,Swanlake,,11:30,12:30,13:30,15:15,17:35,18:15
+Ecopark,Buv Campus,Westbay – B Building,,11:30,12:30,13:30,15:15,17:35,18:15
+Ecopark,Buv Campus,Westbay – C Building,,11:30,12:30,13:30,15:15,17:35,18:15
+Ecopark,Buv Campus,Aquabay –  Sky 2 Building ,,11:30,12:30,13:30,15:15,17:35,18:15
+Ecopark,Buv Campus,Aquabay – Park 1 Building,,11:30,12:30,13:30,15:15,17:35,18:15
+Ecopark,Sky Oasis,Sol Forest & Haven Park,,11:33,12:33,13:33,15:18,17:38,18:18
+Ecopark,Sky Oasis,Landmark,,11:33,12:33,13:33,15:18,17:38,18:18
+Ecopark,Sky Oasis,Swanlake,,11:33,12:33,13:33,15:18,17:38,18:18
+Ecopark,Sky Oasis,Westbay – B Building,,11:33,12:33,13:33,15:18,17:38,18:18
+Ecopark,Sky Oasis,Westbay – C Building,,11:33,12:33,13:33,15:18,17:38,18:18
+Ecopark,Sky Oasis,Aquabay –  Sky 2 Building ,,11:33,12:33,13:33,15:18,17:38,18:18
+Ecopark,Sky Oasis,Aquabay – Park 1 Building,,11:33,12:33,13:33,15:18,17:38,18:18
+Ecopark,Sol Forest & Haven Park,Landmark,,11:33,12:33,13:33,15:18,17:38,18:18
+Ecopark,Sol Forest & Haven Park,Swanlake,,11:33,12:33,13:33,15:18,17:38,18:18
+Ecopark,Sol Forest & Haven Park,Westbay – B Building,,11:33,12:33,13:33,15:18,17:38,18:18
+Ecopark,Sol Forest & Haven Park,Westbay – C Building,,11:33,12:33,13:33,15:18,17:38,18:18
+Ecopark,Sol Forest & Haven Park,Aquabay –  Sky 2 Building ,,11:33,12:33,13:33,15:18,17:38,18:18
+Ecopark,Sol Forest & Haven Park,Aquabay – Park 1 Building,,11:33,12:33,13:33,15:18,17:38,18:18
+Ecopark,Landmark,Swanlake,,11:35,12:35,13:35,15:20,17:40,18:20
+Ecopark,Landmark,Westbay – B Building,,11:35,12:35,13:35,15:20,17:40,18:20
+Ecopark,Landmark,Westbay – C Building,,11:35,12:35,13:35,15:20,17:40,18:20
+Ecopark,Landmark,Aquabay –  Sky 2 Building ,,11:35,12:35,13:35,15:20,17:40,18:20
+Ecopark,Landmark,Aquabay – Park 1 Building,,11:35,12:35,13:35,15:20,17:40,18:20
+Ecopark,Swanlake,Westbay – B Building,,11:35,12:35,13:35,15:20,17:40,18:20
+Ecopark,Swanlake,Westbay – C Building,,11:35,12:35,13:35,15:20,17:40,18:20
+Ecopark,Swanlake,Aquabay –  Sky 2 Building ,,11:35,12:35,13:35,15:20,17:40,18:20
+Ecopark,Swanlake,Aquabay – Park 1 Building,,11:35,12:35,13:35,15:20,17:40,18:20
+Ecopark,Westbay – B Building,Westbay – C Building,,11:36,12:36,13:36,15:21,17:41,18:21
+Ecopark,Westbay – B Building,Aquabay –  Sky 2 Building ,,11:36,12:36,13:36,15:21,17:41,18:21
+Ecopark,Westbay – B Building,Aquabay – Park 1 Building,,11:36,12:36,13:36,15:21,17:41,18:21
+Ecopark,Westbay – C Building,Aquabay –  Sky 2 Building ,,11:36,12:36,13:36,15:21,17:41,18:21
+Ecopark,Westbay – C Building,Aquabay – Park 1 Building,,11:36,12:36,13:36,15:21,17:41,18:21
+Ecopark,Aquabay –  Sky 2 Building ,Aquabay – Park 1 Building,,11:42,12:42,13:42,15:27,17:47,18:27

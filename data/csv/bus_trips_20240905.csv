@@ -1,0 +1,56 @@
+trip_id,route,departure_district,arrival,departure_time,arrival_time
+1,Hai Ba Trung to BUV Campus,Hai Ba Trung,BUV Campus,07:40,08:25
+2,Hai Ba Trung to BUV Campus,Hai Ba Trung,BUV Campus,09:40,10:25
+3,Hai Ba Trung to BUV Campus,Hai Ba Trung,BUV Campus,10:40,11:25
+4,Hai Ba Trung to BUV Campus,Hai Ba Trung,BUV Campus,12:00,12:40
+5,Hai Ba Trung to BUV Campus,Hai Ba Trung,BUV Campus,13:30,14:15
+6,Cau Giay to BUV Campus,Cau Giay,BUV Campus,07:20,08:25
+7,Cau Giay to BUV Campus,Cau Giay,BUV Campus,09:30,10:35
+8,Cau Giay to BUV Campus,Cau Giay,BUV Campus,10:25,11:30
+9,Cau Giay to BUV Campus,Cau Giay,BUV Campus,11:40,12:45
+10,Cau Giay to BUV Campus,Cau Giay,BUV Campus,13:30,14:35
+11,Tay Ho to BUV Campus,Tay Ho,BUV Campus,07:40,08:40
+12,Tay Ho to BUV Campus,Tay Ho,BUV Campus,09:40,10:40
+13,Tay Ho to BUV Campus,Tay Ho,BUV Campus,10:40,11:40
+14,Tay Ho to BUV Campus,Tay Ho,BUV Campus,11:40,12:40
+15,Tay Ho to BUV Campus,Tay Ho,BUV Campus,13:30,14:30
+16,Ha Dong to BUV Campus,Ha Dong,BUV Campus,07:30,08:20
+17,Ha Dong to BUV Campus,Ha Dong,BUV Campus,09:30,10:20
+18,Ha Dong to BUV Campus,Ha Dong,BUV Campus,10:30,11:20
+19,Ha Dong to BUV Campus,Ha Dong,BUV Campus,11:30,12:20
+20,Ha Dong to BUV Campus,Ha Dong,BUV Campus,13:30,14:20
+21,Ecopark to BUV Campus,Ecopark,BUV Campus,08:28,08:40
+22,Ecopark to BUV Campus,Ecopark,BUV Campus,10:28,10:40
+23,Ecopark to BUV Campus,Ecopark,BUV Campus,11:28,11:40
+24,Ecopark to BUV Campus,Ecopark,BUV Campus,12:43,13:00
+25,Ecopark to BUV Campus,Ecopark,BUV Campus,14:18,14:30
+26,BUV Campus to Hai Ba Trung,BUV Campus,Hai Ba Trung,11:30,12:25
+27,BUV Campus to Hai Ba Trung,BUV Campus,Hai Ba Trung,12:30,13:25
+28,BUV Campus to Hai Ba Trung,BUV Campus,Hai Ba Trung,13:30,14:25
+29,BUV Campus to Hai Ba Trung,BUV Campus,Hai Ba Trung,15:15,16:10
+30,BUV Campus to Hai Ba Trung,BUV Campus,Hai Ba Trung,17:35,18:30
+31,BUV Campus to Hai Ba Trung,BUV Campus,Hai Ba Trung,18:15,19:10
+32,BUV Campus to Cau Giay,BUV Campus,Cau Giay,11:30,12:35
+33,BUV Campus to Cau Giay,BUV Campus,Cau Giay,12:30,13:35
+34,BUV Campus to Cau Giay,BUV Campus,Cau Giay,13:30,14:35
+35,BUV Campus to Cau Giay,BUV Campus,Cau Giay,15:15,16:20
+36,BUV Campus to Cau Giay,BUV Campus,Cau Giay,17:35,18:40
+37,BUV Campus to Cau Giay,BUV Campus,Cau Giay,18:15,19:20
+38,BUV Campus to Tay Ho,BUV Campus,Tay Ho,11:30,12:30
+39,BUV Campus to Tay Ho,BUV Campus,Tay Ho,12:30,13:30
+40,BUV Campus to Tay Ho,BUV Campus,Tay Ho,13:30,14:30
+41,BUV Campus to Tay Ho,BUV Campus,Tay Ho,15:15,16:15
+42,BUV Campus to Tay Ho,BUV Campus,Tay Ho,17:35,18:35
+43,BUV Campus to Tay Ho,BUV Campus,Tay Ho,18:15,19:15
+44,BUV Campus to Ha Dong,BUV Campus,Ha Dong,11:30,12:20
+45,BUV Campus to Ha Dong,BUV Campus,Ha Dong,12:30,13:20
+46,BUV Campus to Ha Dong,BUV Campus,Ha Dong,13:30,14:20
+47,BUV Campus to Ha Dong,BUV Campus,Ha Dong,15:15,16:05
+48,BUV Campus to Ha Dong,BUV Campus,Ha Dong,17:35,18:25
+49,BUV Campus to Ha Dong,BUV Campus,Ha Dong,18:15,19:05
+50,BUV Campus to Ecopark,BUV Campus,Ecopark,11:30,11:45
+51,BUV Campus to Ecopark,BUV Campus,Ecopark,12:30,12:45
+52,BUV Campus to Ecopark,BUV Campus,Ecopark,13:30,13:45
+53,BUV Campus to Ecopark,BUV Campus,Ecopark,15:15,15:30
+54,BUV Campus to Ecopark,BUV Campus,Ecopark,17:35,17:50
+55,BUV Campus to Ecopark,BUV Campus,Ecopark,18:15,18:30

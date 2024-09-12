@@ -1,0 +1,298 @@
+trip_id,stop_sequence,stop_name,stop_time
+1,1,51 Le Dai Hanh,07:40
+1,2,Times City,07:55
+1,3,AEON Mall Long Bien,08:05
+1,4,Rung Co - E2 Building,08:20
+1,5,BUV Campus,08:25
+2,1,51 Le Dai Hanh,09:40
+2,2,Times City,09:55
+2,3,AEON Mall Long Bien,10:05
+2,4,Rung Co - E2 Building,10:20
+2,5,BUV Campus,10:25
+3,1,51 Le Dai Hanh,10:40
+3,2,Times City,10:55
+3,3,AEON Mall Long Bien,11:05
+3,4,Rung Co - E2 Building,11:20
+3,5,BUV Campus,11:25
+4,1,51 Le Dai Hanh,12:00
+4,2,Times City,12:15
+4,3,AEON Mall Long Bien,12:25
+4,4,Rung Co - E2 Building,12:35
+4,5,BUV Campus,12:40
+5,1,51 Le Dai Hanh,13:30
+5,2,Times City,13:45
+5,3,AEON Mall Long Bien,13:55
+5,4,Rung Co - E2 Building,14:10
+5,5,BUV Campus,14:15
+6,1,Nguyen Quoc Tri,07:20
+6,2,National Cinema Centre,07:35
+6,3,BUV Campus,08:25
+7,1,Nguyen Quoc Tri,09:30
+7,2,National Cinema Centre,09:45
+7,3,BUV Campus,10:35
+8,1,Nguyen Quoc Tri,10:25
+8,2,National Cinema Centre,10:40
+8,3,BUV Campus,11:30
+9,1,Nguyen Quoc Tri,11:40
+9,2,National Cinema Centre,11:55
+9,3,BUV Campus,12:45
+10,1,Nguyen Quoc Tri,13:30
+10,2,National Cinema Centre,13:45
+10,3,BUV Campus,14:35
+11,1,Ho Tay Water Park,07:40
+11,2,Au Co,07:50
+11,3,Tran Khanh Du,08:05
+11,4,Vinhomes Ocean Park,08:30
+11,5,BUV Campus,08:40
+12,1,Ho Tay Water Park,09:40
+12,2,Au Co,09:50
+12,3,Tran Khanh Du,10:05
+12,4,Vinhomes Ocean Park,10:30
+12,5,BUV Campus,10:40
+13,1,Ho Tay Water Park,10:40
+13,2,Au Co,10:50
+13,3,Tran Khanh Du,11:05
+13,4,Vinhomes Ocean Park,11:30
+13,5,BUV Campus,11:40
+14,1,Ho Tay Water Park,11:40
+14,2,Au Co,11:50
+14,3,Tran Khanh Du,12:05
+14,4,Vinhomes Ocean Park,12:30
+14,5,BUV Campus,12:40
+15,1,Ho Tay Water Park,13:30
+15,2,Au Co,13:40
+15,3,Tran Khanh Du,13:55
+15,4,Vinhomes Ocean Park,14:20
+15,5,BUV Campus,14:30
+16,1,Ho Guom Plaza,07:30
+16,2,473 Nguyen Trai,07:40
+16,3,Muong Thanh Grand Hotel,07:50
+16,4,Linh Nam,08:00
+16,5,BUV Campus,08:20
+17,1,Ho Guom Plaza,09:30
+17,2,473 Nguyen Trai,09:40
+17,3,Muong Thanh Grand Hotel,09:50
+17,4,Linh Nam,10:00
+17,5,BUV Campus,10:20
+18,1,Ho Guom Plaza,10:30
+18,2,473 Nguyen Trai,10:40
+18,3,Muong Thanh Grand Hotel,10:50
+18,4,Linh Nam,11:00
+18,5,BUV Campus,11:20
+19,1,Ho Guom Plaza,11:30
+19,2,473 Nguyen Trai,11:40
+19,3,Muong Thanh Grand Hotel,11:50
+19,4,Linh Nam,12:00
+19,5,BUV Campus,12:20
+20,1,Ho Guom Plaza,13:30
+20,2,473 Nguyen Trai,13:40
+20,3,Muong Thanh Grand Hotel,13:50
+20,4,Linh Nam,14:00
+20,5,BUV Campus,14:20
+21,1,Sky Oasis,08:28
+21,2,Sol Forest,08:28
+21,3,Landmark,08:30
+21,4,Swanlake,08:30
+21,5,Westbay – B Building,08:31
+21,6,Westbay – C Building,08:31
+21,7,Aquabay - Sky 2 Building,08:34
+21,8,Aquabay – Park 1 - Building,08:34
+21,9,BUV Campus,08:40
+22,1,Sky Oasis,10:28
+22,2,Sol Forest,10:28
+22,3,Landmark,10:30
+22,4,Swanlake,10:30
+22,5,Westbay – B Building,10:31
+22,6,Westbay – C Building,10:31
+22,7,Aquabay - Sky 2 Building,10:34
+22,8,Aquabay – Park 1 - Building,10:34
+22,9,BUV Campus,10:40
+23,1,Sky Oasis,11:28
+23,2,Sol Forest,11:28
+23,3,Landmark,11:30
+23,4,Swanlake,11:30
+23,5,Westbay – B Building,11:31
+23,6,Westbay – C Building,11:31
+23,7,Aquabay - Sky 2 Building,11:34
+23,8,Aquabay – Park 1 - Building,11:34
+23,9,BUV Campus,11:40
+24,1,Sky Oasis,12:43
+24,2,Sol Forest,12:43
+24,3,Landmark,12:45
+24,4,Swanlake,12:45
+24,5,Westbay – B Building,12:46
+24,6,Westbay – C Building,12:46
+24,7,Aquabay - Sky 2 Building,12:49
+24,8,Aquabay – Park 1 - Building,12:49
+24,9,BUV Campus,13:00
+25,1,Sky Oasis,14:18
+25,2,Sol Forest,14:18
+25,3,Landmark,14:20
+25,4,Swanlake,14:20
+25,5,Westbay – B Building,14:21
+25,6,Westbay – C Building,14:21
+25,7,Aquabay - Sky 2 Building,14:24
+25,8,Aquabay – Park 1 - Building,14:24
+25,9,BUV Campus,14:30
+26,1,BUV Campus,11:30
+26,2,AEON Mall Long Bien,12:00
+26,3,Times City,12:10
+26,4,51 Le Dai Hanh,12:25
+27,1,BUV Campus,12:30
+27,2,AEON Mall Long Bien,13:00
+27,3,Times City,13:10
+27,4,51 Le Dai Hanh,13:25
+28,1,BUV Campus,13:30
+28,2,AEON Mall Long Bien,14:00
+28,3,Times City,14:10
+28,4,51 Le Dai Hanh,14:25
+29,1,BUV Campus,15:15
+29,2,AEON Mall Long Bien,15:45
+29,3,Times City,15:55
+29,4,51 Le Dai Hanh,16:10
+30,1,BUV Campus,17:35
+30,2,AEON Mall Long Bien,18:05
+30,3,Times City,18:15
+30,4,51 Le Dai Hanh,18:30
+31,1,BUV Campus,18:15
+31,2,AEON Mall Long Bien,18:45
+31,3,Times City,18:55
+31,4,51 Le Dai Hanh,19:10
+32,1,BUV Campus,11:30
+32,2,National Cinema Centre,12:20
+32,3,Nguyen Quoc Tri,12:35
+33,1,BUV Campus,12:30
+33,2,National Cinema Centre,13:20
+33,3,Nguyen Quoc Tri,13:35
+34,1,BUV Campus,13:30
+34,2,National Cinema Centre,14:20
+34,3,Nguyen Quoc Tri,14:35
+35,1,BUV Campus,15:15
+35,2,National Cinema Centre,16:05
+35,3,Nguyen Quoc Tri,16:20
+36,1,BUV Campus,17:35
+36,2,National Cinema Centre,18:25
+36,3,Nguyen Quoc Tri,18:40
+37,1,BUV Campus,18:15
+37,2,National Cinema Centre,19:05
+37,3,Nguyen Quoc Tri,19:20
+38,1,BUV Campus,11:30
+38,2,Vinhomes Ocean Park,11:40
+38,3,Hong Ha,12:05
+38,4,Au Co,12:20
+38,5,Ho Tay Water Park,12:30
+39,1,BUV Campus,12:30
+39,2,Vinhomes Ocean Park,12:40
+39,3,Hong Ha,13:05
+39,4,Au Co,13:20
+39,5,Ho Tay Water Park,13:30
+40,1,BUV Campus,13:30
+40,2,Vinhomes Ocean Park,13:40
+40,3,Hong Ha,14:05
+40,4,Au Co,14:20
+40,5,Ho Tay Water Park,14:30
+41,1,BUV Campus,15:15
+41,2,Vinhomes Ocean Park,15:25
+41,3,Hong Ha,15:50
+41,4,Au Co,16:05
+41,5,Ho Tay Water Park,16:15
+42,1,BUV Campus,17:35
+42,2,Vinhomes Ocean Park,17:45
+42,3,Hong Ha,18:10
+42,4,Au Co,18:25
+42,5,Ho Tay Water Park,18:35
+43,1,BUV Campus,18:15
+43,2,Vinhomes Ocean Park,18:25
+43,3,Hong Ha,18:50
+43,4,Au Co,19:05
+43,5,Ho Tay Water Park,19:15
+44,1,BUV Campus,11:30
+44,2,Linh Nam,11:50
+44,3,Muong Thanh Grand Hotel,12:00
+44,4,473 Nguyen Trai,12:10
+44,5,Ho Guom Plaza,12:20
+45,1,BUV Campus,12:30
+45,2,Linh Nam,12:50
+45,3,Muong Thanh Grand Hotel,13:00
+45,4,473 Nguyen Trai,13:10
+45,5,Ho Guom Plaza,13:20
+46,1,BUV Campus,13:30
+46,2,Linh Nam,13:50
+46,3,Muong Thanh Grand Hotel,14:00
+46,4,473 Nguyen Trai,14:10
+46,5,Ho Guom Plaza,14:20
+47,1,BUV Campus,15:15
+47,2,Linh Nam,15:35
+47,3,Muong Thanh Grand Hotel,15:45
+47,4,473 Nguyen Trai,15:55
+47,5,Ho Guom Plaza,16:05
+48,1,BUV Campus,17:35
+48,2,Linh Nam,17:55
+48,3,Muong Thanh Grand Hotel,18:05
+48,4,473 Nguyen Trai,18:15
+48,5,Ho Guom Plaza,18:25
+49,1,BUV Campus,18:15
+49,2,Linh Nam,18:35
+49,3,Muong Thanh Grand Hotel,18:45
+49,4,473 Nguyen Trai,18:55
+49,5,Ho Guom Plaza,19:05
+50,1,BUV Campus,11:30
+50,2,Sky Oasis,11:33
+50,3,Sol Forest,11:33
+50,4,Landmark,11:35
+50,5,Swanlake,11:35
+50,6,Westbay – B Building,11:36
+50,7,Westbay – C Building,11:36
+50,8,Aquabay - Sky 2 Building,11:42
+50,9,Aquabay – Park 1 - Building,11:42
+50,10,Rung Co - E2 Building,11:45
+51,1,BUV Campus,12:30
+51,2,Sky Oasis,12:33
+51,3,Sol Forest,12:33
+51,4,Landmark,12:35
+51,5,Swanlake,12:35
+51,6,Westbay – B Building,12:36
+51,7,Westbay – C Building,12:36
+51,8,Aquabay - Sky 2 Building,12:42
+51,9,Aquabay – Park 1 - Building,12:42
+51,10,Rung Co - E2 Building,12:45
+52,1,BUV Campus,13:30
+52,2,Sky Oasis,13:33
+52,3,Sol Forest,13:33
+52,4,Landmark,13:35
+52,5,Swanlake,13:35
+52,6,Westbay – B Building,13:36
+52,7,Westbay – C Building,13:36
+52,8,Aquabay - Sky 2 Building,13:42
+52,9,Aquabay – Park 1 - Building,13:42
+52,10,Rung Co - E2 Building,13:45
+53,1,BUV Campus,15:15
+53,2,Sky Oasis,15:18
+53,3,Sol Forest,15:18
+53,4,Landmark,15:20
+53,5,Swanlake,15:20
+53,6,Westbay – B Building,15:21
+53,7,Westbay – C Building,15:21
+53,8,Aquabay - Sky 2 Building,15:27
+53,9,Aquabay – Park 1 - Building,15:27
+53,10,Rung Co - E2 Building,15:30
+54,1,BUV Campus,17:35
+54,2,Sky Oasis,17:38
+54,3,Sol Forest,17:38
+54,4,Landmark,17:40
+54,5,Swanlake,17:40
+54,6,Westbay – B Building,17:41
+54,7,Westbay – C Building,17:41
+54,8,Aquabay - Sky 2 Building,17:47
+54,9,Aquabay – Park 1 - Building,17:47
+54,10,Rung Co - E2 Building,17:50
+55,1,BUV Campus,18:15
+55,2,Sky Oasis,18:18
+55,3,Sol Forest,18:18
+55,4,Landmark,18:20
+55,5,Swanlake,18:20
+55,6,Westbay – B Building,18:21
+55,7,Westbay – C Building,18:21
+55,8,Aquabay - Sky 2 Building,18:27
+55,9,Aquabay – Park 1 - Building,18:27
+55,10,Rung Co - E2 Building,18:30
