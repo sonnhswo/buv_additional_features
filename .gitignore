@@ -173,4 +173,4 @@ debug.ipynb
 test.py
 
 notebooks
-application/
+application/.env
