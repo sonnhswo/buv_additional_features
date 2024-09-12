@@ -10,8 +10,8 @@ from sqlalchemy import create_engine, MetaData, Table, Column, Integer, String, 
 from sqlalchemy.orm import sessionmaker
 
 import os
-from dotenv import load_dotenv, find_dotenv
-load_dotenv(find_dotenv("./application/.env"))
+# from dotenv import load_dotenv, find_dotenv
+# load_dotenv(find_dotenv("./application/.env"))
 
 # Suppress FutureWarning messages
 warnings.simplefilter(action='ignore', category=FutureWarning)
