@@ -10,8 +10,8 @@ from sqlalchemy import create_engine, MetaData, Table, Column, Integer, String, 
 from sqlalchemy.orm import sessionmaker
 
 import os
-# from dotenv import load_dotenv, find_dotenv
-# load_dotenv(find_dotenv("./application/.env"))
+from dotenv import load_dotenv, find_dotenv
+load_dotenv(find_dotenv("./application/.env"))
 
 # Suppress FutureWarning messages
 warnings.simplefilter(action='ignore', category=FutureWarning)
@@ -216,14 +216,31 @@ def generate_starting_time(bus_calender_file: pd.ExcelFile,
                 continue
             
             pickup_point = route_df.iloc[i][0]
+            if "buv" in pickup_point.lower():
+                pickup_point = "BUV Campus"
+            elif "aeon" in pickup_point.lower():
+                pickup_point = "AEON Mall Long Bien"
+            elif "le dai hanh" in pickup_point.lower():
+                pickup_point = "51 Le Dai Hanh"
+            else:
+                pickup_point = pickup_point.title()
             for j in range(i + 1, len(route_df)):
                 # Get the dropoff points
                 dropoff_point = route_df.iloc[j][0]
+                if "buv" in dropoff_point.lower():
+                    dropoff_point = "BUV Campus"
+                elif "aeon" in dropoff_point.lower():
+                    dropoff_point = "AEON Mall Long Bien"
+                elif "le dai hanh" in dropoff_point.lower():
+                    dropoff_point = "51 Le Dai Hanh"
+                else:
+                    dropoff_point = dropoff_point.title()
+                
                 # Define the common columns
                 new_row_data = {
                     'route_name': route_name.title(),
-                    'pickup_point': pickup_point.title(),
-                    'dropoff_point': dropoff_point.title(),
+                    'pickup_point': pickup_point,
+                    'dropoff_point': dropoff_point,
                     'date': None
                 }
                 
@@ -247,15 +264,31 @@ def generate_starting_time(bus_calender_file: pd.ExcelFile,
                 continue
             
             pickup_point = route_df.iloc[i][7]
+            if "buv" in pickup_point.lower():
+                pickup_point = "BUV Campus"
+            elif "aeon" in pickup_point.lower():
+                pickup_point = "AEON Mall Long Bien"
+            elif "le dai hanh" in pickup_point.lower():
+                pickup_point = "51 Le Dai Hanh"
+            else:
+                pickup_point = pickup_point.title()
             for j in range(i + 1, len(route_df)):
                 # Get the dropoff points
                 dropoff_point = route_df.iloc[j][7]
+                if "buv" in dropoff_point.lower():
+                    dropoff_point = "BUV Campus"
+                elif "aeon" in dropoff_point.lower():
+                    dropoff_point = "AEON Mall Long Bien"
+                elif "le dai hanh" in dropoff_point.lower():
+                    dropoff_point = "51 Le Dai Hanh"
+                else:
+                    dropoff_point = dropoff_point.title()
                 
                 # Define the common columns
                 new_row_data = {
                     'route_name': route_name.title(),
-                    'pickup_point': pickup_point.title(),
-                    'dropoff_point': dropoff_point.title(),
+                    'pickup_point': pickup_point,
+                    'dropoff_point': dropoff_point,
                     'date': None
                 }
                 
@@ -382,10 +415,18 @@ def generate_bus_schedule(bus_calender_file: pd.ExcelFile,
                 stop_time = stops.iloc[i][col_idx].strftime("%H:%M")
                 
                 stop_name = stops.iloc[i][0]
+                if "buv" in stop_name.lower():
+                    stop_name = "BUV Campus"
+                elif "aeon" in stop_name.lower():
+                    stop_name = "AEON Mall Long Bien"
+                elif "le dai hanh" in stop_name.lower():
+                    stop_name = "51 Le Dai Hanh"
+                else:
+                    stop_name = stop_name.title()
                 new_row_data = {
                                 'trip_id': trip_id,
                                 'stop_sequence': stop_sequence,
-                                'stop_name': stop_name.title(),
+                                'stop_name': stop_name,
                                 'stop_time': stop_time,
                             }
                 new_row_data_list.append(new_row_data)
@@ -405,10 +446,18 @@ def generate_bus_schedule(bus_calender_file: pd.ExcelFile,
                 stop_time = stops.iloc[i][col_idx].strftime("%H:%M")
                 
                 stop_name = stops.iloc[i][7]
+                if "buv" in stop_name.lower():
+                    stop_name = "BUV Campus"
+                elif "aeon" in stop_name.lower():
+                    stop_name = "AEON Mall Long Bien"
+                elif "le dai hanh" in stop_name.lower():
+                    stop_name = "51 Le Dai Hanh"
+                else:
+                    stop_name = stop_name.title()
                 new_row_data = {
                                 'trip_id': trip_id,
                                 'stop_sequence': stop_sequence,
-                                'stop_name': stop_name.title(),
+                                'stop_name': stop_name,
                                 'stop_time': stop_time,
                             }
                 new_row_data_list.append(new_row_data)
